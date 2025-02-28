@@ -1,0 +1,12 @@
+{
+  "name": "bee-1002",
+  "version": "1.0.0",
+  "description": "A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:",
+  "main": "bee-1002.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
